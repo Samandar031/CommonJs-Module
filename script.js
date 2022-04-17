@@ -17,3 +17,4 @@ Array.find((val) => {
 });
 
 let arrr = [1, 2, 3];
+let obj = ["1a1a1a1a1a"];
