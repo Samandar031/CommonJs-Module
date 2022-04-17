@@ -22,6 +22,10 @@ class Promise {
     this.name = name;
     this.title = title;
   }
+
+  #legion(legion) {
+    this.legion = legion;
+  }
 }
 
 const son = Object.create(Promise);
