@@ -18,3 +18,8 @@ Array.find((val) => {
 
 let arrr = [1, 2, 3];
 let obj = ["1a1a1a1a1a"];
+const alivali = function (val) {
+  val.map((val) => {
+    val.push;
+  });
+};
