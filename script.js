@@ -23,3 +23,5 @@ class Promise {
     this.title = title;
   }
 }
+
+const son = Object.create(Promise);
