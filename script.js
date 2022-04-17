@@ -15,3 +15,11 @@ let arr = [1, 1, 2];
 Array.find((val) => {
   return val == 2;
 });
+
+class Promise {
+  constructor(ali, name, title) {
+    this.ali = ali;
+    this.name = name;
+    this.title = title;
+  }
+}
